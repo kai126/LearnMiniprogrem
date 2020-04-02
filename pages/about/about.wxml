@@ -6,4 +6,5 @@
     <navigator url="/pages/weekly/weekly" style="display:inline;" open-type="switchTab" hover-class="nav-hover" class="nav-default">一部好电影</navigator>
   </view>
   <text>微博：weibo.com/goodMovies</text>
+  <text>第一个知识点</text>
 </view>
