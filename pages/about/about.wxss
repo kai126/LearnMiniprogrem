@@ -1,0 +1,29 @@
+.container1 {
+  background-color: #eee;
+  height: 100vh;
+  display: flex;
+  /* 使用弹性盒子布局 */
+  flex-direction: column;
+  /* 使用列布局 */
+  justify-content: space-around;
+  /* 平均的占用垂直空间 */
+  align-items: center;
+  /* 元素垂直对齐 */
+
+}
+
+.about-banner {
+  width: 375rpx;
+  height: 375rpx;
+  border-radius: 50%;
+  /* 设置图片为圆形 */
+}
+
+
+.nav-default {
+  color: blue;
+}
+
+.nav-hover {
+  color:red;
+}

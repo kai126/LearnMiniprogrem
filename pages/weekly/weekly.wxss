@@ -1,0 +1,14 @@
+.movie-swiper {
+  height:100vh;
+}
+
+.return-button{
+  position: absolute;
+  right: 0;
+  top: 40rpx;
+  font-size: 26rpx;
+  font-style: italic;
+  border: 1px solid blue;
+  border-radius: 10%;
+  /* border-right: 0; */
+}
